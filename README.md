@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and deepening my understanding of React, Express, & Node.
 - 💞️ I’m looking to collaborate on anything! I love to learn 🤓
 - 📫 For opportunities or inquiries, please email me at msism720@gmail.com
+- 📫 Check out my portfolio at msi-ism.github.io!
 
 <!---
 msi-ism/msi-ism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
